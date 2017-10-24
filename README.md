@@ -6,11 +6,11 @@
 
 Dia 1 – Apresentação do curso. Introdução às criptomoedas. Segurança e uso de criptomoedas.
 
-Dia 2 – Fundamentos do investimento. Análise de risco. Métricas de retorno.
+[Dia 2 – Fundamentos do investimento. Análise de risco. Métricas de retorno.](./Aula2.pdf)
 
 Dia 3 – Análise técnica de criptomoedas I.
 
-Dia 4 – Classificação dos ativos digitais. Estratégias de investimento.
+[Dia 4 – Classificação dos ativos digitais. Estratégias de investimento.](./Aula4.pdf)
 
 Dia 5 – Análise técnica de criptomoedas II.
 
