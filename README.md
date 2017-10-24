@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Curso Trading de Criptomoedas
 
-You can use the [editor on GitHub](https://github.com/Thuener/Trading-de-Criptomoedas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Curso de Extensão  CEE PUC-Rio - 21 horas](http://www.cce.puc-rio.br/sitecce/website/website.dll/folder?nCurso=trading-de-criptomoedas&nInst=cce)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Slides
 
-### Markdown
+Dia 1 – Apresentação do curso. Introdução às criptomoedas. Segurança e uso de criptomoedas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dia 2 – Fundamentos do investimento. Análise de risco. Métricas de retorno.
 
-```markdown
-Syntax highlighted code block
+Dia 3 – Análise técnica de criptomoedas I.
 
-# Header 1
-## Header 2
-### Header 3
+Dia 4 – Classificação dos ativos digitais. Estratégias de investimento.
 
-- Bulleted
-- List
+Dia 5 – Análise técnica de criptomoedas II.
 
-1. Numbered
-2. List
+Dia 6 – Uso de API para coleta de dados. Softwares de apoio. Introdução à automação (bots).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thuener/Trading-de-Criptomoedas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dia 7 – Encerramento do curso e avaliação. Revisão geral e dúvidas individuais.
