@@ -14,6 +14,6 @@ Dia 3 – Análise técnica de criptomoedas I.
 
 [Dia 5 – Análise técnica de criptomoedas II.](./Aula5.pdf)
 
-Dia 6 – Uso de API para coleta de dados. Softwares de apoio. Introdução à automação (bots).
+[Dia 6 – Uso de API para coleta de dados. Softwares de apoio. Introdução à automação (bots).](./Aula6.pdf)
 
 Dia 7 – Encerramento do curso e avaliação. Revisão geral e dúvidas individuais.
