@@ -6,14 +6,14 @@
 
 [Dia 1 – Apresentação do curso. Introdução às criptomoedas. Segurança e uso de criptomoedas.](./Aula1.pdf)
 
-[Dia 2 – Fundamentos do investimento. Análise de risco. Métricas de retorno.](./Aula2.pdf)
+[Dia 2 – Conceitos básicos. ICOs.](./Aula2.pdf)
 
-Dia 3 – Análise técnica de criptomoedas I.
+[Dia 3 – Fundamentos do investimento. Análise de risco. Métricas de retorno.](./Aula3.pdf)
 
 [Dia 4 – Classificação dos ativos digitais. Estratégias de investimento.](./Aula4.pdf)
 
-[Dia 5 – Análise técnica de criptomoedas II.](./Aula5.pdf)
+[Dia 5 – Uso de API para coleta de dados. Softwares de apoio. Introdução à automação (bots).](./Aula5.pdf)
 
-[Dia 6 – Uso de API para coleta de dados. Softwares de apoio. Introdução à automação (bots).](./Aula6.pdf)
+[Dia 6 – Análise técnica de criptomoedas I.](./Aula6.pdf)
 
-Dia 7 – Encerramento do curso e avaliação. Revisão geral e dúvidas individuais.
+[Dia 7 – Análise técnica de criptomoedas II.](./Aula7.pdf)
