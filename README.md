@@ -17,3 +17,12 @@
 [Dia 6 – Análise técnica de criptomoedas I.](./Aula6.pdf)
 
 [Dia 7 – Análise técnica de criptomoedas II.](./Aula7.pdf)
+
+
+## [Avaliação do curso](https://goo.gl/forms/EuB0Fg1s7yP8FoVg1)
+
+## Links
+### Cryptotrader
+[Vídeos](https://www.youtube.com/watch?v=mIzhg2ja8JQ&list=PLj-6o2Vsw5UZVQq6ur1RTetcEi30xN9sh)
+
+
