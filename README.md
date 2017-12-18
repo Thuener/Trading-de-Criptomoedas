@@ -14,8 +14,8 @@ Dia 4 – [Classificação dos ativos digitais. Estratégias de investimento.](.
 
 Dia 5 – [Uso de API para coleta de dados. Softwares de apoio. Introdução à automação (bots).](./Aula5.pdf)
 
-Dia 6 – [Análise técnica de criptomoedas I.](./Aula6.pdf)
-[Análise técnica de criptomoedas II.](./Aula6_2.pdf)
+Dia 6 – [Análise técnica de criptomoedas I.](./Aula6.pdf) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [Análise técnica de criptomoedas II.](./Aula6_2.pdf)
 
 Dia 7 – [Análise técnica de criptomoedas III.](./Aula7.pdf)
 
