@@ -8,9 +8,11 @@ Dia 1 – [Apresentação do curso. Introdução às criptomoedas. Segurança e 
 
 Dia 2 – [Conceitos básicos. ICOs.](./Aula2.pdf)
 
-Dia 3 – [Fundamentos do investimento. Análise de risco. Métricas de retorno.](./Aula3.pdf)
+Dia 3 – [Fundamentos do investimento. Análise de risco. Métricas de retorno.](./Aula3.pdf) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [Código e gráficos](http://nbviewer.jupyter.org/github/Thuener/Trading-de-Criptomoedas/blob/81324ac03e7bf11c30749983456030270a052925/codigo/GraficosJulia.ipynb)
 
-Dia 4 – [Classificação dos ativos digitais. Estratégias de investimento.](./Aula4.pdf)
+Dia 4 – [Classificação dos ativos digitais. Estratégias de investimento.](./Aula4.pdf) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [Código e gráficos](http://nbviewer.jupyter.org/github/Thuener/Trading-de-Criptomoedas/blob/b5001223f918be95d061c24a7525e8cacee35d74/codigo/RiscoRetorno.ipynb)
 
 Dia 5 – [Uso de API para coleta de dados. Softwares de apoio. Introdução à automação (bots).](./Aula5.pdf)
 
